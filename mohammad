@@ -40,3 +40,9 @@ index.html
     </table>
 </body>
 </html>
+<tr>
+    <th>Favorite Language</th>
+    <td>Python</td>
+</tr>
+Add favorite programming language to table
+
